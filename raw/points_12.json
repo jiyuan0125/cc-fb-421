@@ -1,0 +1,146 @@
+{
+ "rows": [
+  {
+   "mid": "M00061",
+   "benefit": "积分抵扣",
+   "status": "已用",
+   "amount": 5062,
+   "updated_at": "2026-11-14 10:14:26"
+  },
+  {
+   "mid": "M00638",
+   "benefit": "评论有礼",
+   "status": "过期",
+   "amount": 9446,
+   "updated_at": "2026-11-14 10:15:03"
+  },
+  {
+   "mid": "M00381",
+   "benefit": "生日礼包",
+   "status": "过期",
+   "amount": 6920,
+   "updated_at": "2026-11-14 10:15:40"
+  },
+  {
+   "mid": "M00632",
+   "benefit": "积分抵扣",
+   "status": "冻结",
+   "amount": 5026,
+   "updated_at": "2026-11-14 10:16:17"
+  },
+  {
+   "mid": "M00626",
+   "benefit": "积分抵扣",
+   "status": "生效",
+   "amount": 8500,
+   "updated_at": "2026-11-14 10:16:54"
+  },
+  {
+   "mid": "M00136",
+   "benefit": "签到翻倍",
+   "status": "生效",
+   "amount": 8315,
+   "updated_at": "2026-11-14 10:17:31"
+  },
+  {
+   "mid": "M00145",
+   "benefit": "生日礼包",
+   "status": "生效",
+   "amount": 3754,
+   "updated_at": "2026-11-14 10:18:08"
+  },
+  {
+   "mid": "M00889",
+   "benefit": "签到翻倍",
+   "status": "冻结",
+   "amount": 188,
+   "updated_at": "2026-11-14 10:18:45"
+  },
+  {
+   "mid": "M00078",
+   "benefit": "会员日券",
+   "status": "生效",
+   "amount": 3280,
+   "updated_at": "2026-11-14 10:19:22"
+  },
+  {
+   "mid": "M00312",
+   "benefit": "生日礼包",
+   "status": "冻结",
+   "amount": 9757,
+   "updated_at": "2026-11-14 10:19:59"
+  },
+  {
+   "mid": "M00316",
+   "benefit": "评论有礼",
+   "status": "生效",
+   "amount": 8525,
+   "updated_at": "2026-11-14 10:20:36"
+  },
+  {
+   "mid": "M00590",
+   "benefit": "评论有礼",
+   "status": "已用",
+   "amount": 7073,
+   "updated_at": "2026-11-14 10:21:13"
+  },
+  {
+   "mid": "M00829",
+   "benefit": "积分抵扣",
+   "status": "生效",
+   "amount": 8808,
+   "updated_at": "2026-11-14 10:21:50"
+  },
+  {
+   "mid": "M00581",
+   "benefit": "会员日券",
+   "status": "生效",
+   "amount": 8614,
+   "updated_at": "2026-11-14 10:22:27"
+  },
+  {
+   "mid": "M00149",
+   "benefit": "积分抵扣",
+   "status": "已用",
+   "amount": 728,
+   "updated_at": "2026-11-14 10:23:04"
+  },
+  {
+   "mid": "M00442",
+   "benefit": "签到翻倍",
+   "status": "已用",
+   "amount": 4454,
+   "updated_at": "2026-11-14 10:23:41"
+  },
+  {
+   "mid": "M00588",
+   "benefit": "积分抵扣",
+   "status": "生效",
+   "amount": 2981,
+   "updated_at": "2026-11-14 10:24:18"
+  },
+  {
+   "mid": "M00658",
+   "benefit": "评论有礼",
+   "status": "生效",
+   "amount": 4444,
+   "updated_at": "2026-11-14 10:24:55"
+  },
+  {
+   "mid": "M00454",
+   "benefit": "生日礼包",
+   "status": "冻结",
+   "amount": 8548,
+   "updated_at": "2026-11-14 10:25:32"
+  },
+  {
+   "mid": "M00198",
+   "benefit": "积分抵扣",
+   "status": "生效",
+   "amount": 6767,
+   "updated_at": "2026-11-14 10:26:09"
+  }
+ ],
+ "more": true,
+ "total": 720
+}
