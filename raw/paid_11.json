@@ -1,0 +1,146 @@
+{
+ "rows": [
+  {
+   "mid": "M00173",
+   "benefit": "付费折扣",
+   "status": "已用",
+   "amount": 5714,
+   "updated_at": "2026-11-14 22:50:21"
+  },
+  {
+   "mid": "M00806",
+   "benefit": "退换无忧",
+   "status": "过期",
+   "amount": 4217,
+   "updated_at": "2026-11-14 22:31:58"
+  },
+  {
+   "mid": "M00353",
+   "benefit": "付费券包",
+   "status": "生效",
+   "amount": 673,
+   "updated_at": "2026-11-14 22:32:35"
+  },
+  {
+   "mid": "M00540",
+   "benefit": "专属内容",
+   "status": "冻结",
+   "amount": 6070,
+   "updated_at": "2026-11-14 22:33:12"
+  },
+  {
+   "mid": "M00689",
+   "benefit": "付费折扣",
+   "status": "生效",
+   "amount": 5892,
+   "updated_at": "2026-11-14 22:33:49"
+  },
+  {
+   "mid": "M00088",
+   "benefit": "付费券包",
+   "status": "生效",
+   "amount": 7732,
+   "updated_at": "2026-11-14 22:34:26"
+  },
+  {
+   "mid": "M00854",
+   "benefit": "退换无忧",
+   "status": "生效",
+   "amount": 371,
+   "updated_at": "2026-11-14 22:35:03"
+  },
+  {
+   "mid": "M00151",
+   "benefit": "付费折扣",
+   "status": "生效",
+   "amount": 1398,
+   "updated_at": "2026-11-14 22:35:40"
+  },
+  {
+   "mid": "M00115",
+   "benefit": "免运费",
+   "status": "生效",
+   "amount": 5697,
+   "updated_at": "2026-11-14 22:36:17"
+  },
+  {
+   "mid": "M00652",
+   "benefit": "付费券包",
+   "status": "冻结",
+   "amount": 3714,
+   "updated_at": "2026-11-14 22:36:54"
+  },
+  {
+   "mid": "M00755",
+   "benefit": "付费折扣",
+   "status": "生效",
+   "amount": 619,
+   "updated_at": "2026-11-14 22:37:31"
+  },
+  {
+   "mid": "M00206",
+   "benefit": "免运费",
+   "status": "生效",
+   "amount": 6227,
+   "updated_at": "2026-11-14 22:38:08"
+  },
+  {
+   "mid": "M00814",
+   "benefit": "专属内容",
+   "status": "冻结",
+   "amount": 5556,
+   "updated_at": "2026-11-14 22:38:45"
+  },
+  {
+   "mid": "M00493",
+   "benefit": "退换无忧",
+   "status": "已用",
+   "amount": 6969,
+   "updated_at": "2026-11-14 22:39:22"
+  },
+  {
+   "mid": "M00135",
+   "benefit": "专属内容",
+   "status": "生效",
+   "amount": 9957,
+   "updated_at": "2026-11-14 22:39:59"
+  },
+  {
+   "mid": "M00256",
+   "benefit": "专属内容",
+   "status": "生效",
+   "amount": 4506,
+   "updated_at": "2026-11-14 22:40:36"
+  },
+  {
+   "mid": "M00308",
+   "benefit": "付费折扣",
+   "status": "已用",
+   "amount": 6740,
+   "updated_at": "2026-11-14 22:41:13"
+  },
+  {
+   "mid": "M00593",
+   "benefit": "专属内容",
+   "status": "生效",
+   "amount": 4756,
+   "updated_at": "2026-11-14 22:41:50"
+  },
+  {
+   "mid": "M00762",
+   "benefit": "付费折扣",
+   "status": "已用",
+   "amount": 7049,
+   "updated_at": "2026-11-14 22:42:27"
+  },
+  {
+   "mid": "M00154",
+   "benefit": "免运费",
+   "status": "生效",
+   "amount": 7094,
+   "updated_at": "2026-11-14 22:43:04"
+  }
+ ],
+ "more": true,
+ "total": 440
+}

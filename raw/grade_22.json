@@ -1,0 +1,146 @@
+{
+ "rows": [
+  {
+   "mid": "M00501",
+   "benefit": "专属标识",
+   "status": "生效",
+   "amount": 1291,
+   "updated_at": "2026-11-14 19:30:03"
+  },
+  {
+   "mid": "M00248",
+   "benefit": "等级折扣",
+   "status": "生效",
+   "amount": 1921,
+   "updated_at": "2026-11-14 19:30:40"
+  },
+  {
+   "mid": "M00723",
+   "benefit": "成长加速",
+   "status": "生效",
+   "amount": 6322,
+   "updated_at": "2026-11-14 19:31:17"
+  },
+  {
+   "mid": "M00013",
+   "benefit": "优先客服",
+   "status": "过期",
+   "amount": 5833,
+   "updated_at": "2026-11-14 19:31:54"
+  },
+  {
+   "mid": "M00019",
+   "benefit": "等级折扣",
+   "status": "生效",
+   "amount": 9586,
+   "updated_at": "2026-11-14 19:32:31"
+  },
+  {
+   "mid": "M00159",
+   "benefit": "专属标识",
+   "status": "过期",
+   "amount": 4228,
+   "updated_at": "2026-11-14 19:33:08"
+  },
+  {
+   "mid": "M00562",
+   "benefit": "等级折扣",
+   "status": "已用",
+   "amount": 1170,
+   "updated_at": "2026-11-14 19:33:45"
+  },
+  {
+   "mid": "M00056",
+   "benefit": "成长加速",
+   "status": "冻结",
+   "amount": 8353,
+   "updated_at": "2026-11-14 19:34:22"
+  },
+  {
+   "mid": "M00137",
+   "benefit": "专属标识",
+   "status": "冻结",
+   "amount": 8522,
+   "updated_at": "2026-11-14 19:34:59"
+  },
+  {
+   "mid": "M00165",
+   "benefit": "优先客服",
+   "status": "已用",
+   "amount": 4706,
+   "updated_at": "2026-11-14 19:35:36"
+  },
+  {
+   "mid": "M00687",
+   "benefit": "专属标识",
+   "status": "生效",
+   "amount": 7915,
+   "updated_at": "2026-11-14 19:36:13"
+  },
+  {
+   "mid": "M00445",
+   "benefit": "专属标识",
+   "status": "生效",
+   "amount": 9187,
+   "updated_at": "2026-11-14 19:36:50"
+  },
+  {
+   "mid": "M00127",
+   "benefit": "等级折扣",
+   "status": "冻结",
+   "amount": 7728,
+   "updated_at": "2026-11-15 11:31:00"
+  },
+  {
+   "mid": "M00043",
+   "benefit": "专属标识",
+   "status": "已用",
+   "amount": 8139,
+   "updated_at": "2026-11-14 19:38:04"
+  },
+  {
+   "mid": "M00676",
+   "benefit": "成长加速",
+   "status": "生效",
+   "amount": 1573,
+   "updated_at": "2026-11-14 19:38:41"
+  },
+  {
+   "mid": "M00175",
+   "benefit": "成长加速",
+   "status": "生效",
+   "amount": 6819,
+   "updated_at": "2026-11-14 19:39:18"
+  },
+  {
+   "mid": "M00041",
+   "benefit": "优先客服",
+   "status": "生效",
+   "amount": 7082,
+   "updated_at": "2026-11-14 19:39:55"
+  },
+  {
+   "mid": "M00573",
+   "benefit": "等级折扣",
+   "status": "生效",
+   "amount": 2733,
+   "updated_at": "2026-11-14 19:40:32"
+  },
+  {
+   "mid": "M00303",
+   "benefit": "等级折扣",
+   "status": "已用",
+   "amount": 4200,
+   "updated_at": "2026-11-14 19:41:09"
+  },
+  {
+   "mid": "M00409",
+   "benefit": "优先客服",
+   "status": "冻结",
+   "amount": 2851,
+   "updated_at": "2026-11-14 19:41:46"
+  }
+ ],
+ "more": true,
+ "total": 520
+}

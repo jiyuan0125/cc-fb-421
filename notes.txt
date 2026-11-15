@@ -1,0 +1,31 @@
+采集与去重说明
+================
+
+1. 续抓范围
+   raw/ 下的页快照与 crawl_state.json 是上次中断时的进度，本次直接复用，
+   只对缺失页调用 api.fetch；翻页以接口返回的 more 为结束依据，不按 total
+   推算页数，避免数据变动导致的页数漂移。每抓到一页立即落盘快照并更新
+   crawl_state.json，再次中断后仍可继续。
+
+2. 在持口径
+   status 为“生效”“冻结”的权益算在持，计入 holdings.csv；
+   “已用”“过期”是终态，不计入。
+
+3. 同一权益多行的取舍
+   同一 (mid, channel, benefit) 在相邻页、或快照与续抓数据之间可能重复出现，
+   且 status、updated_at 可能不同。先按状态过滤出在持行，同一权益只保留一行，
+   规则为：取 updated_at 最新的一行（updated_at 为 YYYY-MM-DD HH:MM:SS 文本，
+   字典序与时间先后一致）；updated_at 相同时保留先采集到的一行，结果确定。
+   若某权益在采集窗口内已全部变为终态（已用/过期），则不计入 holdings。
+
+4. 被拒调用
+   api.fetch 抛错即视为该次调用被配额拒绝，记入 rejects.csv（channel,page），
+   并停止该渠道后续翻页——被拒调用本身也消耗配额，立即重试只会再次被拒。
+   没有被拒时 rejects.csv 只有表头。
+
+5. 幂等
+   全部页都已在 raw/ 中有快照且末页 more=false 时，再次运行 collect.py
+   不会调用 api.fetch，三份 CSV 与本文件内容保持不变。
+   channel_rollup.csv 中：polled = 该渠道成功取得的页数（快照 + 续抓）；
+   holdings = holdings.csv 中该渠道的去重后在持行数；
+   size = 该渠道第一页返回的 total。
